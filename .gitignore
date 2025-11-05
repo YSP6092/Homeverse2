@@ -1,0 +1,14 @@
+homeverse-frontend/node_modules/
+homeverse-frontend/build/
+homeverse-frontend/.env.local
+homeverse-frontend/.env
+homeverse-backend/venv/
+homeverse-backend/__pycache__/
+homeverse-backend/*.pyc
+homeverse-backend/.env
+DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
